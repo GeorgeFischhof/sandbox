@@ -1,1 +1,15 @@
-# sandbox
+sandbox
+
+[source,python]
+----
+def my_function():
+    pass
+----
+
+[source,mermaid]
+----
+graph TD
+    Start --> Stop
+----
+
+include::included.adoc[]
