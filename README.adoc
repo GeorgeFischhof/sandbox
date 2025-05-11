@@ -1,4 +1,4 @@
-:safe 0
+
 
 sandbox
 
@@ -13,5 +13,12 @@ def my_function():
 graph TD
     Start --> Stop
 ----
+
+
+[source,abc]
+----
+abcdefg
+----
+
 
 include::included.adoc[]
