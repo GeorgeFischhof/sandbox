@@ -1,0 +1,5 @@
+.Click to reveal the answer
+[%collapsible]
+====
+This is the answer.
+====
