@@ -47,7 +47,5 @@ A gyermekek biztonsága érdekében, a jövőbeni hasonló esetek elkerülésér
 **Határozott álláspontunk, hogy a gyermekek biztonsága az elsődleges, és a protokollok betartása kulcsfontosságú.** Várjuk a vizsgálat eredményéről és a tervezett intézkedésekről szóló, **tényszerű tájékoztatását**.
 
 Tisztelettel:
+Fischhof György, 7z SZMK
 
-A 7.z osztály több aggódó szülője nevében:
-
-[A szülők neve/aláírása/kapcsolattartó neve és elérhetősége]
