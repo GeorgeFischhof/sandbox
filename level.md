@@ -1,4 +1,4 @@
-## 📧 Tárgy: Kezdeményezés és Intézkedési Kérelem a testnevelés órákon történt balesetek, valamint az iskolai balesetkezelési eljárás kapcsán
+## Tárgy: Kezdeményezés és Intézkedési Kérelem a testnevelés órákon történt balesetek, valamint az iskolai balesetkezelési eljárás kapcsán
 
 **Címzettek:**
 * **Igazgatónő Asszony** (intézkedésre jogosult vezető)
@@ -47,5 +47,6 @@ A gyermekek biztonsága érdekében, a jövőbeni hasonló esetek elkerülésér
 **Határozott álláspontunk, hogy a gyermekek biztonsága az elsődleges, és a protokollok betartása kulcsfontosságú.** Várjuk a vizsgálat eredményéről és a tervezett intézkedésekről szóló, **tényszerű tájékoztatását**.
 
 Tisztelettel:
+
 Fischhof György, 7z SZMK
 
