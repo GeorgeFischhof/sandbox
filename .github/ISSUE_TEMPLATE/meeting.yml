@@ -1,0 +1,75 @@
+name: Meeting
+description: Meeting data
+title: "MEETING - "
+assignees:
+  - berzeviczi-istvan
+
+body:
+
+  - type: textarea
+    id: Subject
+    attributes:
+      label: Subject
+      description: |
+        Please give short and meaningful description
+
+  - type: input
+    id: Meeting_date
+    attributes:
+      label: Meeting date and time
+      description: |
+        YYYY-MM-DD hh:mm
+      placeholder: YYYY-MM-DD hh:mm
+
+  - type: dropdown
+    id: Organizer_company
+    attributes:
+      label: Organizer company
+      options:
+        - 4C
+        - ADITERNA
+        - ADS-FR
+        - AIT
+        - CT
+        - HMEI
+        - INDRA
+        - ITRES
+        - LDO
+        - MBDA
+        - NLR
+        - PITCH
+        - RME
+        - STAM
+        - TAVS
+        - TNO
+
+  - type: checkboxes
+    id: HMEI_participants
+    attributes:
+      label: HMEI participants
+      options:
+        - label: Gabor Antoci
+        - label: George Fischhof
+        - label: Istvan Berzeviczi
+        - label: Kristof Szabo
+        - label: Tamas Szabo
+
+  - type: textarea
+    id: Topics
+    attributes:
+      label: Topics
+
+  - type: textarea
+    id: HMEI_tasks
+    attributes:
+      label: HMEI tasks
+      value: |
+        - task
+          - 🚀 urgent, deadline: YYYY-MM-DD hh:mm
+          - 👷 not urgent, deadline: YYYY-MM-DD hh:mm
+          - 🐌 long term,  deadline: YYYY-MM-DD hh:mm
+
+  - type: textarea
+    id: Other_info
+    attributes:
+      label: Other info
